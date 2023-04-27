@@ -7,20 +7,20 @@ Semester: Winter 2023
 Group: 14
 Assignment 3
 
-Repository Description
+''' Repository Description
 IR_Assignment_3.ipynb: all code with comments
 Report.pdf: report with all the observations, formulae and explanations for assignment
 Images: contains graphs and report images
 
-.gitignore Description
+''' .gitignore Description
 All the data files are stored in the Dataset folder which is present in the root folder.
 
-#Dataset Description
+# Dataset Description
 -Dataset chosen for this assignment is Wikipedia Vote Network, a network of who-votes-on-whom. The network is a bidirectional graph of 7115 nodes and 103689 edges. Nodes in the network represent wikipedia users and a directed edge from node i to node j represents that user i voted on user j.
 
-#Code Explanation
+# Code Explanation
 
-##Q1
+## Q1
 
 ' Methodology
 
@@ -39,7 +39,7 @@ All the data files are stored in the Dataset folder which is present in the root
 - Explanation
 - Explanation of formulae, outputs and graphs can be found in the report
 
-##Q2
+## Q2
 
 ' Methodology
 
