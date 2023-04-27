@@ -1,11 +1,11 @@
 # CSE508_Winter2023_A3_14
 
-- IR2022_A3_14
-- Assignment Info
-- Course: Information Retrieval [CSE508]
-- Semester: Winter 2023
-- Group: 14
-- Assignment 3
+> IR2022_A3_14
+> Assignment Info
+> Course: Information Retrieval [CSE508]
+> Semester: Winter 2023
+> Group: 14
+> Assignment 3
 
 > Repository Description
 IR_Assignment_3.ipynb: all code with comments
